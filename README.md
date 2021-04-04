@@ -40,7 +40,7 @@ Example
 ```
 ## 📝 License
 
-Copyright © 2021 [Momenzi Brt](https://github.com/Momenzi).<br />
+Copyright © 2021 [Momenzi](https://github.com/Momenzi).<br />
 
 ***
 Made with ❤️ for [Pikaboot Project](https://pikaboot.xyz)
