@@ -11,3 +11,7 @@
     <img alt="instagram: momenzibrt" src="https://img.shields.io/badge/INSTAGRAM-momenzibrt-red" target="_blank" />
   </a>
 </p>
+
+> Discord bot for listening live radio stations.
+
+### ⚡ [pikaboot.xyz](https://pikaboot.xyz)
