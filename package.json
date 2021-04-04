@@ -1,0 +1,17 @@
+{
+  "name": "pikaboot_247",
+  "version": "1.0.0",
+  "description": "Momenzi2k20",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Momenzi",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "discord.js": "^12.4.1",
+    "ffmpeg-static": "^4.2.7",
+    "node.js": "0.0.1-security"
+  }
+}
