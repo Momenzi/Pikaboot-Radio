@@ -38,3 +38,9 @@ Example
   "guildid": "DISCORD_SERVER_ID"
 }
 ```
+## 📝 License
+
+Copyright © 2021 [Momenzi Brt](https://github.com/Momenzi).<br />
+
+***
+Made with ❤️ for [Pikaboot Project](https://pikaboot.xyz)
