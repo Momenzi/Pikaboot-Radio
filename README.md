@@ -4,9 +4,6 @@
   <a href="https://discord.gg/BCeds9gZDQ">
       <img src="https://discordapp.com/api/guilds/358751806697897984/embed.png" alt="Discord Server Shield"/>
   </a>
-  <a href="https://github.com/julianYaman/tune/blob/master/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" target="_blank" />
-  </a>
   <a href="https://instagram.com/momenzibrt">
     <img alt="instagram: momenzibrt" src="https://img.shields.io/badge/INSTAGRAM-momenzibrt-red" target="_blank" />
   </a>
@@ -15,3 +12,29 @@
 > Discord bot for listening live radio stations.
 
 ### ⚡ [pikaboot.xyz](https://pikaboot.xyz)
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+<a href="https://www.patreon.com/Momenzi">
+  <img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160">
+</a>
+
+### Setup the project
+
+#### 1. Install all modules
+
+```ssh
+npm install
+```
+#### 2. Rename config.example.json to config.json
+
+Example
+```ssh
+{
+  "token": "TOKEN",
+  "voicechannel": "VOICE_CHANNEL_ID",
+  "guildid": "DISCORD_SERVER_ID"
+}
+```
